@@ -1,0 +1,22 @@
+import chevron from "../assets/icons/chevron-next.png"
+import whitedot from "../assets/icons/white-dot.png"
+import bluedot from "../assets/icons/blue-dot.png"
+import viewhide from "../assets/icons/view-hide.png"
+import calendar from "../assets/icons/calendar.png"
+import todo from "../assets/icons/todo.png"
+import menu from "../assets/icons/menu.png"
+import search from "../assets/icons/search.png"
+import add from "../assets/icons/add.png"
+import dropdown from "../assets/icons/dropdown.png"
+import dropup from "../assets/icons/dropup.png"
+import notCompleted from "../assets/icons/not-completed.png"
+import pending from "../assets/icons/pending.png"
+import deleted from "../assets/icons/deleted.png"
+import completed from "../assets/icons/completed.png"
+import checked from "../assets/icons/checked.png"
+import unchecked from "../assets/icons/unchecked.png"
+import date from "../assets/icons/date.png"
+import avatar from "../assets/icons/avatar.png"
+
+
+export {chevron, whitedot, bluedot, viewhide, calendar, todo, menu, search, add, dropdown, notCompleted, pending, deleted, completed, dropup, checked, unchecked, date, avatar}
